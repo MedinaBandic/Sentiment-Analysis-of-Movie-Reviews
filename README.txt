@@ -1,4 +1,4 @@
-Data for this project is in folder aclImdb. (For all other information about data there is README - data file where it also says wherethe dta is taken from.) 
+Data for this project is taken fro IMDB website. (For all other information about data there is README - data file where it also says wherethe dta is taken from.) 
 
 There are three files with code: 
 
